@@ -37,7 +37,7 @@
 - High Performance Server
 - Balanced Progression System
 
-![alt text](https://github.com/Mitch3902/Escape-From-Dayz/blob/main/queuescreen2.png?raw=true "EFC")
+![alt text](https://github.com/Mitch3902/Escape-From-Dayz/blob/main/ESCAPEFROMSAKHAL.png?raw=true "EFS")
 
 
 ## ❗  Community and Events:
