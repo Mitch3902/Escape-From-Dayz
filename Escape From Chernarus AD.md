@@ -1,8 +1,8 @@
 ---
 
-# Escape From Chernarus
+# Escape From DayZ
 
-### Welcome to [EscapeFromDayz](https://discord.gg/escapefromdayz "escapefromdayz Discord")! A PvP-focused DayZ server that combines Escape From Tarkov with Dayz.
+### Welcome to [EscapeFromDayZ](https://discord.gg/escapefromdayz "escapefromdayz Discord")! A PvP-focused DayZ server that combines Escape From Tarkov with DayZ.
 ---
 
 ## 🌎 Server Details:
