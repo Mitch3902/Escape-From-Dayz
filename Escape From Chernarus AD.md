@@ -13,19 +13,19 @@
 
 ## 🛠 Mods and Enhancements:
 - **Modular Weapon System:**
-![alt text](https://github.com/Mitch3902/Escape-From-Dayz/blob/main/2%20EFD%20_%20Weapon%20_%20Habib.png?raw=true "Weapons")
+![alt text](https://github.com/Mitch3902/Escape-From-Dayz/blob/main/2%20EFD%20_%20Weapon%20_%20Habib.png?raw=true "Weapon System")
 - **Secure Containers**
-![alt text](https://github.com/Mitch3902/Escape-From-Dayz/blob/main/1%20EFD%20_%20Containers%20_%20Habib.png?raw=true "Secure Containers")
+![alt text](https://github.com/Mitch3902/Escape-From-Dayz/blob/main/1%20EFD%20_%20Containers%20_%20Habib.png?raw=true "Containers")
 - **Armor** 
-![alt text](https://github.com/Mitch3902/Escape-From-Dayz/blob/main/3%20EFD%20_%20Armor%20_%20Habib.png?raw=true "Armor")
+![alt text](https://github.com/Mitch3902/Escape-From-Dayz/blob/main/3%20EFD%20_%20Armor%20_%20Habib.png?raw=true "Armor System")
 - **Keys and Keycards**
-![alt text](https://github.com/Mitch3902/Escape-From-Dayz/blob/main/4%20EFD%20_%20Keys%20%20%26%20K_%20Habib.png?raw=true "Keys and Keycards")
+![alt text](https://github.com/Mitch3902/Escape-From-Dayz/blob/main/4%20EFD%20_%20Keys%20%20%26%20K_%20Habib.png?raw=true "Keys & Keycards")
 - **Safezone Stash**
-![alt text](https://github.com/Mitch3902/Escape-From-Dayz/blob/main/5%20EFD%20_%20Stash%20Locker%20_%20Habib.png?raw=true "Safezone Stash")
+![alt text](https://github.com/Mitch3902/Escape-From-Dayz/blob/main/5%20EFD%20_%20Stash%20Locker%20_%20Habib.png?raw=true "Safezone Stashes")
 - **Extractions** 
-![alt text](https://github.com/Mitch3902/Escape-From-Dayz/blob/main/6%20EFD%20_%20Extraction%20%20_%20Habib.png?raw=true "Extractions")
+![alt text](https://github.com/Mitch3902/Escape-From-Dayz/blob/main/6%20EFD%20_%20Extraction%20%20_%20Habib.png?raw=true "Extraction")
 - **Quests & Leveling** 
-![alt text](https://github.com/Mitch3902/Escape-From-Dayz/blob/main/5%20EFD%20_%20Stash%20Locker%20_%20Habib.png?raw=true "Quests and Leveling")
+![alt text](https://github.com/Mitch3902/Escape-From-Dayz/blob/main/5%20EFD%20_%20Stash%20Locker%20_%20Habib.png?raw=true "Quests & Leveling")
 
 ## 🎮Other Features :
 - Custom equipment, and survival tools
