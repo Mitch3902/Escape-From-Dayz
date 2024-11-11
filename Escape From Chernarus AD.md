@@ -30,9 +30,14 @@
 ## 🎮Other Features :
 - Custom equipment, and survival tools
 - Expanded medical and stamina systems
+- Rearmed Basebuilding
 - Unique base-building mechanics 
 - Anti-cheat 
+- Custom Loot Economy
 - High Performance Server
+- Balanced Progression System
+
+![alt text](https://github.com/Mitch3902/Escape-From-Dayz/blob/main/queuescreen2.png?raw=true "EFC")
 
 
 ## 🎮 Community and Events:
