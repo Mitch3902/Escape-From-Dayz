@@ -6,38 +6,45 @@
 ---
 
 ## 🌎 Server Details:
-- **Name:** Escape From DayZ US1 | Chernarus | 5 max
+- **Name:** Escape From DayZ US1 Chernarus 
 - **Type:** PvP
-- **Region:** North American
+- **Group Limit:** 5 people maximum
+- **Region:** Central North America
 
-## 🛠 Mods and Features:
+## 🛠 Mods and Enhancements:
 - **Modular Weapon System:**
 ![alt text](https://github.com/Mitch3902/Escape-From-Dayz/blob/main/2%20EFD%20_%20Weapon%20_%20Habib.png?raw=true "Weapons")
 - **Secure Containers**
-- ![alt text](https://github.com/Mitch3902/Escape-From-Dayz/blob/main/1%20EFD%20_%20Containers%20_%20Habib.png?raw=true "Weapons")
-- **Keys and Keycards:** Expect more firefights and adrenaline-pumping encounters around these locations
-- **Dark Nighttime:** Plan accordingly, as nights are dark, use NVGs.
-- **Dynamic Weather:** Face the elements as you scavenge for supplies and battle both the undead and other survivors.
-- **Enhanced Base Building:** Craft your own fortress to defend against raiders and zombies alike.
-- **Balanced Progression System:** Level up as you survive, gaining perks and skills tailored to your play style.
+![alt text](https://github.com/Mitch3902/Escape-From-Dayz/blob/main/1%20EFD%20_%20Containers%20_%20Habib.png?raw=true "Secure Containers")
+- **Armor** 
+![alt text](https://github.com/Mitch3902/Escape-From-Dayz/blob/main/3%20EFD%20_%20Armor%20_%20Habib.png?raw=true "Armor")
+- **Keys and Keycards**
+![alt text](https://github.com/Mitch3902/Escape-From-Dayz/blob/main/4%20EFD%20_%20Keys%20%20%26%20K_%20Habib.png?raw=true "Keys and Keycards")
+- **Safezone Stash**
+![alt text](https://github.com/Mitch3902/Escape-From-Dayz/blob/main/5%20EFD%20_%20Stash%20Locker%20_%20Habib.png?raw=true "Safezone Stash")
+- **Extractions** 
+![alt text](https://github.com/Mitch3902/Escape-From-Dayz/blob/main/6%20EFD%20_%20Extraction%20%20_%20Habib.png?raw=true "Extractions")
+- **Quests & Leveling** 
+![alt text](https://github.com/Mitch3902/Escape-From-Dayz/blob/main/5%20EFD%20_%20Stash%20Locker%20_%20Habib.png?raw=true "Quests and Leveling")
 
-## 🛠 Mods and Enhancements:
-- Custom guns, equipment, and survival tools
+## 🎮Other Features :
+- Custom equipment, and survival tools
 - Expanded medical and stamina systems
-- Unique base-building mechanics with upgraded security options
-- Specialized zombies and increased AI difficulty for added realism
-- Anti-cheat and optimized server stability for a smooth gaming experience
+- Unique base-building mechanics 
+- Anti-cheat 
+- High Performance Server
+
 
 ## 🎮 Community and Events:
 - **Weekly Events:** Loot runs, PvP tournaments, and team-based missions to keep the action fresh and engaging.
 - **Active Admins:** Our team is available to assist players, enforce rules, and maintain a fair gaming environment.
-- **Discord Server:** Join our [Discord](#) to meet other players, find teammates, and stay updated on all server news and events.
+- **Discord Server:** Join our [Discord](#https://discord.gg/escapefromdayz) to meet other players, find teammates, and stay updated on all server news and events.
 
 ## ⚔️ Server Rules:
 1. **No Cheating or Exploiting** – We strive to keep the game fair and enjoyable for everyone.
 2. **Respect Other Players** – Toxic behavior, harassment, and hate speech will not be tolerated.
-3. **No Combat Logging** – Logging out during active combat is considered cheating.
-4. **Raid Only During Raid Hours** – Check Discord for our raid schedules to ensure a balanced environment.
+3. **No Combat Logging** – Logging out during active combat is Illegal
+4. **FULL RULES LIST ON OUR [DISCORD](#https://discord.gg/escapefromdayz)** – Check Discord for our full rules list
 
 ## 🧭 How to Join:
 1. **Download DayZ** (if you haven’t already).
