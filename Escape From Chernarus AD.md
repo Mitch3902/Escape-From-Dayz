@@ -8,7 +8,7 @@
 ## 🌎 Server Details:
 - **Name:** Escape From DayZ US1 Chernarus 
 - **Type:** PvP
-- **Group Limit:** 5 people maximum
+- **Group Limit:** 5 Maximum
 - **Region:** Central North America
 
 ## 🛠 Mods and Enhancements:
