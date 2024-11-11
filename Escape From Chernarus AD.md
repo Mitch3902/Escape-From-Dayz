@@ -40,7 +40,7 @@
 ![alt text](https://github.com/Mitch3902/Escape-From-Dayz/blob/main/queuescreen2.png?raw=true "EFC")
 
 
-## 🎮 Community and Events:
+## ❗  Community and Events:
 - **Weekly Events:** Loot runs, PvP tournaments, and team-based missions to keep the action fresh and engaging.
 - **Active Admins:** Our team is available to assist players, enforce rules, and maintain a fair gaming environment.
 - **Discord Server:** Join our [Discord](#https://discord.gg/escapefromdayz) to meet other players, find teammates, and stay updated on all server news and events.
@@ -51,7 +51,7 @@
 3. **No Combat Logging** – Logging out during active combat is Illegal
 4. **FULL RULES LIST ON OUR [DISCORD](#https://discord.gg/escapefromdayz)** – Check Discord for our full rules list
 
-## 🧭 How to Join:
+## ❓ How to Join:
 1. **Download DayZ** (if you haven’t already).
 2. **Install DZSA Launcher** to automatically load our mods.
 3. **Search "Escape From DayZ"** in the community servers tab.
