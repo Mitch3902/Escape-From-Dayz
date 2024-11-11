@@ -6,9 +6,9 @@
 ---
 
 ## 🌎 Server Details:
-- **Name:** Escape From DayZ US2 Sakhal
+- **Name:** Escape From DayZ US3 Bitterroot
 - **Type:** PvP
-- **Group Limit:** 3 Maximum
+- **Group Limit:** 5 Maximum
 - **Region:** Central North America
 
 ## 🛠 Mods and Enhancements:
@@ -37,7 +37,7 @@
 - High Performance Server
 - Balanced Progression System
 
-![alt text](https://github.com/Mitch3902/Escape-From-Dayz/blob/main/queuescreen2.png?raw=true "EFC")
+![alt text](https://github.com/Mitch3902/Escape-From-Dayz/blob/main/EscapeFromBitterroot.png?raw=true "EFB")
 
 
 ## ❗  Community and Events:
