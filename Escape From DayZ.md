@@ -3,6 +3,7 @@
 # Escape From DayZ 
 
 ### Welcome to Escape From DayZ! A PvP-focused DayZ server that combines Escape From Tarkov with Dayz.
+[EscapeFromDayz](https://discord.gg/escapefromdayz "escapefromdayz Discord")
 
 ---
 
