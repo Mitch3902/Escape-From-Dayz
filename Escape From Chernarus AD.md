@@ -10,7 +10,7 @@
 - **Type:** PvP
 - **Region:** North American
 
-## 🔥 Features:
+## 🛠 Mods and Features:
 - **Modular Weapon System:**
 ![alt text](https://github.com/Mitch3902/Escape-From-Dayz/blob/main/2%20EFD%20_%20Weapon%20_%20Habib.png?raw=true "Weapons")
 - **Secure Containers**
